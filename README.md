@@ -73,17 +73,7 @@ The vision for **RealEstate Crowdfund Marketplace** is to democratize real estat
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/techniaa/real-estate-crowdfund-marketplace.git
-2- Install Dependencies:
-
-cd AndromedaRisein
-
-npm install
-3-Run the Development Server:
-
-npm start
-4-Connect to Andromeda Network: Update config.js with the network and contract details.
-
-This is a Next.js project bootstrapped with create-next-app.
+   cd realestate-crowdfund-marketplace
 
 Learn More
 To learn more about Next.js, take a look at the following resources:
